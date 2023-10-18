@@ -2,9 +2,9 @@ package org.example;
 
 public class Car {
 
-    public static final int COMPACT = 100;
-    public static final int STANDARD = 200;
-    public static final int LUXURY = 500;
+    public static final int COMPACT = 1;
+    public static final int STANDARD = 2;
+    public static final int LUXURY = 3;
 
     private String makeModel;
     private int priceCode;
